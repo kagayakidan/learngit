@@ -1,5 +1,6 @@
 #just say hello to the git
 #change in dev branch
+#Creating a new branch is quick AND simple.
 from numpy import *
 data=mat([[1800,200,120],
     [1700,120,170],
